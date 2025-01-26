@@ -1,0 +1,8 @@
+pyttsx3
+speechrecognition
+openai
+ollama
+python_weather
+spotipy
+icrawler
+pygame
